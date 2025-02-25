@@ -1,5 +1,5 @@
 ```markdown
-# 🚀 Task Management App
+🚀# Task Management App
 
 ## 📌 Overview
 The **Task Management App** is a modern, full-stack web application designed to streamline task management. Users can authenticate, create, update, delete, and track tasks in real time. The app features a responsive UI, robust backend, and seamless integration between frontend and backend.
